@@ -10,3 +10,9 @@
 1. Docker 설치 : [Windows에서 Docker 설치 (가상화 활성화)](https://dslyh01.tistory.com/39)
 2. Ubuntu Linux 설치 : [Windows에서 Ubuntu Linux 설치](https://dslyh01.tistory.com/48)
 3. minikube 설치 : [minikube 설치 및 실행](https://dslyh01.tistory.com/45)
+<br/>
+
+## Kubernetes 이론 공부
+Inflearn의 '대세는 쿠버네티스 [초급~중급]' 강의를 학습하면서 블로그에 정리한 내용입니다.
+
+1. [Kubernetes 기초](https://dslyh01.tistory.com/47)
