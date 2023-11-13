@@ -17,3 +17,4 @@
 Inflearn의 '대세는 쿠버네티스 [초급~중급]' 강의를 학습하면서 블로그에 정리한 내용입니다.
 
 1. [Kubernetes 기초](https://dslyh01.tistory.com/47)
+2. [Pod 기초](https://dslyh01.tistory.com/51)
