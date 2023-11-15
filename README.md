@@ -11,6 +11,7 @@
 2. Ubuntu Linux 설치 : [Windows에서 Ubuntu Linux 설치](https://dslyh01.tistory.com/48)
 3. minikube 설치 (Windows) : [minikube 설치 및 실행 (Windows)](https://dslyh01.tistory.com/45)
 4. minikube 설치 (Linux) : [minikube 설치 및 실행 (Linux)](https://dslyh01.tistory.com/49)
+5. Helm 설치 : [Helm 설치](https://dslyh01.tistory.com/52)
 <br/>
 
 ## Kubernetes 이론 공부
