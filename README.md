@@ -14,6 +14,10 @@
 5. Helm 설치 : [Helm 설치](https://dslyh01.tistory.com/52)
 <br/>
 
+## 아키텍쳐 구성
+1. PostgreSQL : [PostgreSQL 설치 및 실행](https://dslyh01.tistory.com/54)
+<br/>
+
 ## Kubernetes 이론 공부
 Inflearn의 '대세는 쿠버네티스 [초급~중급]' 강의를 학습하면서 블로그에 정리한 내용입니다.
 
