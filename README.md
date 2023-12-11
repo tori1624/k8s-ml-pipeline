@@ -1,4 +1,4 @@
-# ML Pipeline 구축 프로젝트
+# Kubernetes 기반 ML Pipeline 구축 프로젝트
 
 ## 프로젝트 개요
 > 개인적으로 Kubernetes를 스터디하기 위해, minikube 상에서 ML Pipeline을 구축하는 프로젝트입니다.
